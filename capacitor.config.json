@@ -1,0 +1,8 @@
+{
+  "appId": "com.tounitek.tnt44",
+  "appName": "TNT44",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#1c1c20"
+  }
+}
